@@ -1,5 +1,5 @@
 # 💫 About Me:
-Halo, saya Imtiyaz Mulia Sabda, seorang mahasiswa semester 5 di program studi Informatika, Universitas Jenderal Achmad Yani. Saya memiliki ketertarikan besar dalam bidang software engineering, khususnya dalam pengembangan perangkat lunak yang inovatif dan solusi teknologi yang dapat memberikan dampak positif. Saya terus berupaya mengembangkan diri melalui pembelajaran, proyek, dan pengalaman baru di dunia teknologi. 
+Halo, saya Imtiyaz Mulia Sabda, seorang mahasiswa semester 6 di program studi Informatika, Universitas Jenderal Achmad Yani. Saya memiliki ketertarikan besar dalam bidang software engineering dan web devlopemnt, khususnya dalam pengembangan perangkat lunak yang inovatif dan solusi teknologi yang dapat memberikan dampak positif. Saya terus berupaya mengembangkan diri melalui pembelajaran, proyek, dan pengalaman baru di dunia teknologi. 
 
 
 ## 🌐 Socials:
